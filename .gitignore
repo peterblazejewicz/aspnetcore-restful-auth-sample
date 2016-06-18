@@ -1,0 +1,6 @@
+.vs
+src/WebApplication1/.bowerrc
+src/WebApplication1/bin
+src/WebApplication1/obj
+src/WebApplication1/node_modules
+src/WebApplication1/WebApplication1.xproj.user
